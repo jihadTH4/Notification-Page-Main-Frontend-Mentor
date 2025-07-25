@@ -14,7 +14,7 @@
 
 @font-face {
   font-family: "Plus Jakarta Sans";
-  src: url("/assets/fonts/PlusJakartaSans-VariableFont_wght.ttf")
+  src: url("./assets/fonts/PlusJakartaSans-VariableFont_wght.ttf")
     format("truetype");
   font-weight: 500 800;
   font-display: swap;
@@ -26,6 +26,7 @@ body {
   font-weight: 500;
 }
 
-input, button {
+input,
+button {
   cursor: pointer;
 }
